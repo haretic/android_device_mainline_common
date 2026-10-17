@@ -11,6 +11,6 @@ ro.incremental.enable=1
 vendor.light.backlight.disable?=true
 
 # Media
-media.c2.hal.selection=aidl
+media.c2.hal.selection?=aidl
 debug.c2.use_dmabufheaps=1
 debug.stagefright.c2inputsurface=-1
